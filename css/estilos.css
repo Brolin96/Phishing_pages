@@ -1,0 +1,162 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+/*RESETEAR LOS MARGENES DEL NAVEGADOR*/
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: verdana, geneva, sans-serif;
+	background-color: #eceff5;
+}
+._7om2 {
+    display: -webkit-flex;
+}
+._52we {
+	align-items: center;
+}
+._52z5 {
+	padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+    background: #3b5998;
+    box-sizing: border-box;
+    height: 44px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    z-index: 12;
+}
+._4g34 {
+	flex: 1;
+    min-width: 0;
+    width: 0;
+}
+._52z6 {
+	text-align: center;
+}
+div._4g34._52z6 a {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 29px;
+	letter-spacing: -1px;
+}
+.registro {
+	padding: 0 16px;
+	margin: 0 auto;
+	max-width: 416px;
+}
+form.mobile-login {
+	padding-top: 16px;
+	padding-bottom: 1px;
+}
+div.email-pass {
+	border-radius: 4px;
+	overflow: hidden;
+	background: #fff;
+}
+input.cajita {
+	padding: 12px;
+	-webkit-appearance: none;
+    box-sizing: border-box;
+    width: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    border: 0;
+    display: block;
+    margin: 0;
+}
+div.email-pass {
+	border: solid #e5e5e5 1px;
+}
+div#email {
+	border-bottom: 1px solid #e5e5e5;
+}
+div._2pie {
+	padding-top: 12px;
+}
+button.boton-entrar {
+	display: block;
+	width: 100%;
+	border: none;
+    border-radius: 3px;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 0;
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+    color: #fff;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: #3578e5;
+    text-shadow: 0 -1px rgba(0, 0, 0, .25);
+}
+div._43mg {
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10px;
+    overflow: hidden;
+    text-align: center;
+    white-space: nowrap;
+    width: 90%;
+}
+span._43mh {
+	color: #4b4f56;
+}
+div.boton-verde {
+	text-align: center;
+	padding: 12px 0 12px 0;
+}
+a.boton {
+	height: 36px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 5px;
+    background: #00a400;
+    border: none;
+    box-shadow: none;
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, .35);
+    line-height: 27px;
+    font-size: 14px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-block;
+    font-weight: bold;
+    min-width: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+    white-space: nowrap;
+}
+div.other-links {
+	padding-bottom: 36px;
+	text-align: center;
+}
+ul {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: #7596c8;
+    font-size: 12px;
+    line-height: 16px;
+}
+div._5ui4 {
+	text-align: center;
+}
+span.fcg {
+	font-size: 12px;
+	color: #808080;
+	text-align: center;
+}
+
